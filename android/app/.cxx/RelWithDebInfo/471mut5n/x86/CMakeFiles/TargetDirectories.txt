@@ -1,0 +1,2 @@
+D:/Sami/Flutter/Projects/news_app/android/app/.cxx/RelWithDebInfo/471mut5n/x86/CMakeFiles/edit_cache.dir
+D:/Sami/Flutter/Projects/news_app/android/app/.cxx/RelWithDebInfo/471mut5n/x86/CMakeFiles/rebuild_cache.dir
