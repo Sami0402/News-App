@@ -1,6 +1,9 @@
 # news_app
 
 A new Flutter project.
+![Image](https://github.com/user-attachments/assets/608c606e-6923-46e8-9b1d-5e91b94ac5db)
+
+
 
 ## Getting Started
 
